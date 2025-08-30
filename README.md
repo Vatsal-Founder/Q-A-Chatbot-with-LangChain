@@ -3,7 +3,7 @@
 An end‑to‑end question‑answering chatbot that can run on **OpenAI** or **open‑source models** (e.g., via **Ollama**), with **LangSmith** for tracing/observability.
 
 
-Link: https://q-a-chatbot-with-langchain-ac47dfbmsguszgqjfyjucd.streamlit.app
+
 ---
 
 ## Features
@@ -12,6 +12,7 @@ Link: https://q-a-chatbot-with-langchain-ac47dfbmsguszgqjfyjucd.streamlit.app
 * 🧪 **LangSmith tracing:** enable run‑tree traces, latency, and token usage with env flags only.
 * 🚀 **API or UI:** start as an API (FastAPI‑style) or a simple UI (Streamlit/Gradio) depending on how `app.py` is wired.
 
+Link: https://q-a-chatbot-with-langchain-ac47dfbmsguszgqjfyjucd.streamlit.app
 ---
 
 ## Quick Start
